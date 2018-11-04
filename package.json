@@ -11,7 +11,6 @@
   "dependencies": {
     "async-exit-hook": "^2.0.1",
     "dropbox": "^4.0.12",
-    "es6-promise": "^4.2.5",
     "instagram-private-api": "^0.6.8",
     "lodash": "^4.17.11",
     "node-fetch": "^2.2.0",
